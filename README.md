@@ -27,7 +27,7 @@ markdown 很多程序员写文档的一个"语法"
  
  [baidu](https://baidu.com)
  
- ![image](https://www.baidu.com/img/bd log01.png)
+ ![image](https://www.baidu.com/img/bd_logo1.png)
  
  ```html
  <p>
