@@ -41,7 +41,8 @@ markdown 很多程序员写文档的一个"语法"
 
 header 1 | header 2 | header 3
 ---|---|---|
-row
+row 1 col 1 | row 1 col 2 | 3
+row 2 col 1 | row 2 col 2 | 3
 
 *斜体*
 ~~ 删除线 ~~
